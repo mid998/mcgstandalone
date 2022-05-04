@@ -3,7 +3,7 @@
 ##
 
 ## Helm Repo GIT
-helmRepoUrl: https://github.com/likid0/mcgstandalone
+helmRepoUrl: https://github.com/mid998/mcgstandalone
 
 # ArgoCD apps definition
 apps:
